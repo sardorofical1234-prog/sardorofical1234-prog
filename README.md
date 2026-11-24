@@ -33,5 +33,3 @@ A Spring Boot REST API for personal task management and project collaboration.
 - Unit / integration testing and CI automation
 
 ---
-
-*Keep only the technologies and claims you can confidently explain and demonstrate. Add your own name, contact details and other projects before publishing this profile README.*
